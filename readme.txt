@@ -4,7 +4,7 @@ Contributors: activeblogging
 Donate link: http://activeblogging.com/member-benefits/
 Tags: plugin, cron, admin, control, notification
 Requires at least: 2.3
-Tested up to: 2.3
+Tested up to: 2.5
 Stable tag: trunk
 
 Makes it easy to set up (semi)-timed page load events without messing with cron or other third-party timing scripts.
